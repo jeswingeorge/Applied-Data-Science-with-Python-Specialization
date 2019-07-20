@@ -1,3 +1,7 @@
-*.xls,
-*.xlsx,
-*.csv
+.ipynb_checkpoints,
+world_bank.csv,
+Energy Indicators.xls,
+gdplev.xls,
+scimagojr-3.xlsx,
+world_bank.csv,
+university_towns.txt
