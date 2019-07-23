@@ -18,4 +18,5 @@ There are 5 courses in this specialization.
 - [Assignment 4](https://nbviewer.jupyter.org/github/jeswingeorge/Applied-Data-Science-with-Python-Specialization/blob/master/1.%20Intro%20to%20Data%20Science%20in%20Python/Assignments/Assignment-4.ipynb)
 
 
-## 2. 
+## 2. [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
+
